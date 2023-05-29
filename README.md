@@ -38,4 +38,4 @@ Check out my GitHub profile for a showcase of my projects and contributions: [gi
 
 Feel free to reach out to me for collaboration, job opportunities, or just to say hello! I'm always excited to connect with fellow developers and explore new possibilities.
 
-Email: [cappucherdev@gmail.com](mailto:cappucherdev@gmail.com)\
+Email: [cappucherdev@gmail.com](mailto:cappucherdev@gmail.com)
