@@ -10,7 +10,7 @@ Hi there! I'm Cappucher, a passionate web developer with expertise in GraphQL, T
 
 - **Programming Languages:** JavaScript, TypeScript, Python
 - **Front-end Development:** React, HTML5, CSS3
-- **Back-end Development:** Node.js, GraphQL, SQL, Sequelize
+- **Back-end Development:** Node.js, GraphQL, SQL, Sequelize, Flask
 - **Database Systems:** PostgreSQL, MySQL
 - **Version Control:** Git, GitHub
 - **UI Frameworks:** Bootstrap, TailwindCSS
