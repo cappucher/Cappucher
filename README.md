@@ -1,6 +1,6 @@
 # Cappucher
 
-## Web Developer | GraphQL | TypeScript | React | SQL
+## Web Developer | GraphQL | TypeScript | React | SQL | Python
 
 ### About Me
 
@@ -8,7 +8,7 @@ Hi there! I'm Cappucher, a passionate web developer with expertise in GraphQL, T
 
 ### Skills
 
-- **Programming Languages:** JavaScript, TypeScript
+- **Programming Languages:** JavaScript, TypeScript, Python
 - **Front-end Development:** React, HTML5, CSS3
 - **Back-end Development:** Node.js, GraphQL, SQL, Sequelize
 - **Database Systems:** PostgreSQL, MySQL
@@ -27,14 +27,7 @@ TechStore is an e-commerce platform built to provide a seamless shopping experie
 - Categories and comments to put on listings.
 - Add bids to listings that look desirable.
 
-**Email App | Cappumail**\
-*Technologies: React, GraphQL, TypeScript, Node.js, Sequelize, PostgreSQL, BootStrap*
-
-Cappumail is a email app still in the making! Tune back in for the project to be pushed to github.
-
-### GitHub Contributions
-
-Check out my GitHub profile for a showcase of my projects and contributions: [github.com/cappucher](https://github.com/cappucher)
+### Connect with me
 
 Feel free to reach out to me for collaboration, job opportunities, or just to say hello! I'm always excited to connect with fellow developers and explore new possibilities.
 
